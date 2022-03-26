@@ -1,0 +1,16 @@
+img{
+    height: 99.8vh;
+}
+.card-edit{
+    margin-top: 20%;
+}
+
+.font-edit{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 400%;
+}
+.edit-h4{
+    font-style: italic;
+    font-size: 250%;
+}

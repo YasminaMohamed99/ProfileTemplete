@@ -1,0 +1,19 @@
+.backcolor{
+    background-size: 50%;
+    margin: 7% 0%;
+    text-Align: left;
+}
+h1{
+    font-weight: lighter;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 3px grey;
+    font-size: 350%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: grey;
+}

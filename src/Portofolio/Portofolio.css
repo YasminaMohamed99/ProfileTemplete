@@ -1,0 +1,19 @@
+.portcards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 10%;
+}
+.cardbody{
+    height: 20vh;
+    text-align: center;
+}
+.cardbody h5{
+    margin-top: 20%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 150%;
+    text-transform: uppercase;
+}

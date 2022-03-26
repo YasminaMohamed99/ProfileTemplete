@@ -1,0 +1,14 @@
+hr{
+	border-top: 2px solid #ffffff;
+    width: 40%;
+    margin-left: 30%;
+}
+.innerprog{
+    font-size: 150%;
+    text-align: center;
+    background-color: #5a5e5f;
+    width: 120px;
+    height: 5vh;
+    padding: 2%;
+
+}
